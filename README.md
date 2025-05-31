@@ -18,3 +18,5 @@ The CSV file contains the results of the project- and for each clip- it shows
 - Whisper3Annotation: Transcription of audio clip created by Whisper 3
 - audio_clip_name: (show name)\_(episode id)\_(clip id)
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15559782.svg)](https://doi.org/10.5281/zenodo.15559782)

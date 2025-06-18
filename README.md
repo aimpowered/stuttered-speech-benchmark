@@ -18,5 +18,8 @@ The CSV file contains the results of the project- and for each clip- it shows
 - Whisper3Annotation: Transcription of audio clip created by Whisper 3
 - audio_clip_name: (show name)\_(episode id)\_(clip id)
 
+### Please cite the following paper when publishing work related to this dataset:
+J-j-j-just Stutter: Benchmarking Whisper’s Performance Disparities on Different Stuttering Patterns. Charan Sridhar, Shaomei Wu. Accepted to appear in Proceedings of the InterSpeech Conference. 2025.
+([Preprint](https://www.shaomei.info/pdfs/Interspeech_SEP28K_Whisper_benchmarking_final.pdf))
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15559782.svg)](https://doi.org/10.5281/zenodo.15559782)
